@@ -54,4 +54,4 @@ Find code examples for other programming languages [**here**](https://github.com
   ]
 }
 ```
-With our Priceline Scraper, you can easily obtain public data from any Priceline webpage. Gather the necessary hotel and flight information such as pricing, client reviews, or detailed descriptions to evaluate the travel and lodging industry and gain a competitive edge. For any enquiries, feel free to connect with our support team via live chat or email us at hello@oxylabs.io.
+With our Priceline Scraper, you can easily obtain public data from any Priceline webpage. Gather the necessary hotel and flight information such as pricing, client reviews, or detailed descriptions to evaluate the travel and lodging industry and gain a competitive edge. For any enquiries, feel free to connect with our support team via live chat or email us at support@oxylabs.io.
